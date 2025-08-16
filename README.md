@@ -63,6 +63,12 @@ To deploy this project, you can use:
 
 ---
 
-## 📸 Screenshots
-Home Page
+### 📸 Screenshots
+
+##Home Page
+
+![image alt](https://github.com/Hardik-chauhan077/Meme_maker/blob/008e0b5ed869201fa46ae5ddb48276e624746c47/image/Screenshot%202025-08-16%20200437.png)
+
+## Meme Generator
+
 ![image alt](https://github.com/Hardik-chauhan077/Meme_maker/blob/08296830e6fcc46df302c8b3c79a301fdf49a5ed/image/Screenshot%202025-08-16%20200407.png)
