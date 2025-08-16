@@ -14,15 +14,15 @@ It fetches meme templates from the [Imgflip API](https://api.imgflip.com/) and d
 ---
 
 ## 📂 Project Structure
-
-Meme_maker/
-│-- public/ # Static assets (CSS, JS, Images)
-│-- views/ # EJS templates
-│ │-- index.ejs
-│ │-- memegenerator.ejs
-│-- index.js # Main Express server
-│-- package.json
-│-- README.md
+    ```bash
+    Meme_maker/
+    │-- public/ # Static assets (CSS, JS, Images)
+    │-- views/ # EJS templates
+    │ │-- index.ejs
+    │ │-- memegenerator.ejs
+    │-- index.js # Main Express server
+    │-- package.json
+    │-- README.md
 
 
 ---
