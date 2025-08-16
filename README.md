@@ -65,4 +65,4 @@ To deploy this project, you can use:
 
 ## 📸 Screenshots
 Home Page
-
+https://github.com/Hardik-chauhan077/Meme_maker/blob/fd20c1a7a6ea8188626dd58d00c503396f59f985/Screenshot%202025-08-16%20200407.png
