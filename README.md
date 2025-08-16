@@ -65,7 +65,7 @@ To deploy this project, you can use:
 
 ### 📸 Screenshots
 
-##Home Page
+## Home Page
 
 ![image alt](https://github.com/Hardik-chauhan077/Meme_maker/blob/008e0b5ed869201fa46ae5ddb48276e624746c47/image/Screenshot%202025-08-16%20200437.png)
 
